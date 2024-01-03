@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MyApplication" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <style name="MainScreen" parent="Theme.AppCompat.Light">
+        <item name="android:actionBarItemBackground">@color/app_theme</item>
+        <item name="android:actionBarTheme">@color/app_theme</item>
+        <item name="android:statusBarColor">@color/app_theme</item>
+        <item name="colorPrimary">@color/app_theme</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/black</item>
+            </style>
+</resources>
